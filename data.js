@@ -9,7 +9,7 @@ var q = [
 	'How will you make money?',
 	'How much money could you make per year?',
 	'How many users do you have?',
-	 
+	'Do you have the right team?'
 	 
 	'How are you meeting customers?',
 	'How are you understanding customer needs?',
