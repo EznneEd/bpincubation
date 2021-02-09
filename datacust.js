@@ -28,3 +28,4 @@ var tips = [
 	'When talking to a potential customer, be substantive, and get straight to the point.',
 	'DO NOT BEAT AROUND THE BUSH. Do not hem and haw. "Uhm"s and "uh"s don&#39;t lend an aura of intelligence.',
 ];
+	
