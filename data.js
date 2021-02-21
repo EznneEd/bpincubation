@@ -79,6 +79,7 @@ var q = [
 	
 	'How do you know people want this?',
 	'What will prevent others from becoming fast followers?'
+	'How did you come up with this idea?',
 ];
 
 // Tips
